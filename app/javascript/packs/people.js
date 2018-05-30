@@ -1,3 +1,4 @@
+// @flow
 import {index} from '../people_fetcher';
 
 index().then((people) => {

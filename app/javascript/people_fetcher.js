@@ -1,3 +1,4 @@
+// @flow
 const index = () => {
   return fetch('people.json')
     .then((response) => {
